@@ -1,0 +1,1 @@
+In today's lab I learnt what some of the basics of git/GitHub, it was great to finally get hands on with it. I also got to revise some HTML which I have not really used since high school. I learnt what proper semantic HTML is, not the jumbled up pages I used to write in high school.
